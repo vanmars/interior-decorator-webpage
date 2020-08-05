@@ -1,0 +1,9 @@
+.column {
+  width: 30%;
+  float: left;
+}
+
+.footer {
+  float: left;
+  width: 80%;
+}
