@@ -10,3 +10,15 @@
 h1 {
   color: tan;
 }
+
+.before {
+  background-color: pink;
+}
+
+.during {
+  background-color: green;
+}
+
+.after {
+  background-color: purple;
+}
