@@ -3,7 +3,10 @@
   float: left;
 }
 
-.footer {
-  float: left;
-  width: 80%;
+.contact {
+  background-color: tan;
+}
+
+h1 {
+  color: tan;
 }
